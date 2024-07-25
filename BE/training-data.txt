@@ -1,0 +1,16 @@
+Expert Ecosystem application has 4 development teams as below:
+
+1. Team Rocket
+2. Team Invincible
+3. Team Jedays
+4. Team FLS 
+
+
+We created FE team taking all the FE developers from the above team. And this team is called as Birds of a Feather Flock Together 🦅 – Frontend.
+
+Isidoro González is line manager for Team Rocket & Team Jedays.
+
+Using Expert Ecosystem app user can View multidimensional Expert profiles summarizing scientific, digital & clinical activities and peer & referral networks powered by superior analytics and segmentation tools.
+
+Michelle is driving Birds of a Feather Flock Together 🦅 – Frontend team meetings.
+

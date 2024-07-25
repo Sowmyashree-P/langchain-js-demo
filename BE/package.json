@@ -1,0 +1,25 @@
+{
+  "name": "custom-chatbot-with-langchainjs",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gradientai/nodejs-sdk": "^1.12.1",
+    "@huggingface/inference": "^2.8.0",
+    "@langchain/community": "^0.0.36",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "langchain": "^0.1.26"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
