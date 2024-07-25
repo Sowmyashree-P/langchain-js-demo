@@ -15,8 +15,8 @@ async function trainBot(req, res) {
     const vectorStore = await HNSWLib.fromDocuments(
       docs,
       new GradientEmbeddings({ 
-        gradientAccessKey: "zzLo89qNwkdGuk6w3ovNGB2Yj25HHR2b",
-        workspaceId: "cef2978c-7e48-458a-976c-569bfdeaa13e_workspace",
+        gradientAccessKey: "your-id",
+        workspaceId: "your-workspace-id",
       }),
     );
     vectorStore.save("hnswlib");

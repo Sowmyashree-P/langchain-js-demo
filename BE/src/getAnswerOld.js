@@ -9,8 +9,8 @@ const {GradientEmbeddings} = require("@langchain/community/embeddings/gradient_a
 async function getAnswer(req, res) {
 
   const model = new GradientLLM({
-    gradientAccessKey: "zzLo89qNwkdGuk6w3ovNGB2Yj25HHR2b",
-    workspaceId: "cef2978c-7e48-458a-976c-569bfdeaa13e_workspace",
+    gradientAccessKey: "your-id",
+    workspaceId: "your-workspace-id",
     modelSlug: "llama2-7b-chat",
   });
   const { question } = req.body;

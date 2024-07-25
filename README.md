@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 Create gradientAccessKey and workspaceId from 'https://auth.gradient.ai/select-workspace' website. They have $10 free credits.
 
-Add in the place of your-id in 'trainBot.js' and 'getAnswer.js' files
+Add in the place of your-id & your-workspace-id in 'trainBot.js' and 'getAnswer.js' files
 
 Then, run the following command to install dependencies.
 
