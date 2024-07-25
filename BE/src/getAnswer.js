@@ -1,6 +1,5 @@
 const { HNSWLib } = require("@langchain/community/vectorstores/hnswlib");
 const { RetrievalQAChain, loadQARefineChain } = require("langchain/chains");
-const { StringOutputParser } = require("@langchain/core/output_parsers");
 
 const { GradientLLM } = require("@langchain/community/llms/gradient_ai");
 const {GradientEmbeddings} = require("@langchain/community/embeddings/gradient_ai");

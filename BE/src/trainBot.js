@@ -1,5 +1,4 @@
-//const { OpenAIEmbeddings } = require("@langchain/openai");
-const { HuggingFaceInferenceEmbeddings } = require("@langchain/community/embeddings/hf");
+
 const { RecursiveCharacterTextSplitter } = require("langchain/text_splitter");
 const { HNSWLib } = require("@langchain/community/vectorstores/hnswlib");
 const fs = require("fs");
